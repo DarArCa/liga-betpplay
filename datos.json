@@ -1,0 +1,21 @@
+{
+    "equipos": {
+        "peru": {
+            "puntos": 0,
+            "goles_favor": 2,
+            "goles_contra": 8,
+            "jugadores": [],
+            "cuerpo_tecnico": [],
+            "cuerpo_medico": []
+        },
+        "colombia": {
+            "puntos": 3,
+            "goles_favor": 8,
+            "goles_contra": 2,
+            "jugadores": [],
+            "cuerpo_tecnico": [],
+            "cuerpo_medico": []
+        }
+    },
+    "partidos": []
+}
